@@ -1,0 +1,6 @@
+[submodule "dr.dampp-raspberry"]
+	path = dr.dampp-raspberry
+	url = https://github.com/thirteendollars/dr.dampp-raspberry.git
+[submodule "dr.dampp-android"]
+	path = dr.dampp-android
+	url = https://github.com/thirteendollars/dr.dampp-android.git
